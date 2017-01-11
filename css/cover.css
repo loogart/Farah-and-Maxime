@@ -188,7 +188,7 @@ body {
 /* custom css by loogart */
 
 .img-cover {
-    background-image: url('../img/farah-et-max_bw.jpg');
+    background-image: url('../img/farah-et-max.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -200,7 +200,7 @@ body {
 
 @media (max-width:767px) {
     .img-cover {
-        background-image: url('../img/farah-et-max_bw.jpg');
+        background-image: url('../img/farah-et-max.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: 90% -10%;
